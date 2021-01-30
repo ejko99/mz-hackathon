@@ -2,7 +2,7 @@
 ## How to install
 -nvidia-docker에서 작성된 파일입니다.-
 
--*첫 번째 줄 실행 후 ckpt/734model.pth이 위치해 있는지 확인부탁드립니다:)
+*첫 번째 줄 실행 후 ckpt/734model.pth이 위치해 있는지 확인부탁드립니다:)
 
 ```
 git clone https://github.com/xodms0309/mz-hackerthon.git  
